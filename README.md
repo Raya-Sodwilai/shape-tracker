@@ -10,14 +10,6 @@
 
 ## Shape Tracker application was created to determine weather three lengths will make a triangle and calculate the area of a rectangle.
 
-## Setup/Installation Requirements
-
-* _This is a great place_
-* _to list setup instructions_
-* _in a simple_
-* _easy-to-understand_
-* _format_
-
 ## Known Bugs
 
 * _N/A_
